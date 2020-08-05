@@ -3,4 +3,5 @@
 </p>
 <p align="center">
     <img src="./src/assets/images/Screenshot_1.png" />
+    <img src="./src/assets/images/Screenshot_2.png" />
 </p>
